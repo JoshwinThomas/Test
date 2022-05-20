@@ -1,3 +1,5 @@
 Added a new line .
 
 added a new line in feature
+
+added a line from master branch
