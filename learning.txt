@@ -1,5 +1,1 @@
-Added a new line .
-
-added a new line in feature
-
-this line is added from feature branch
+completely modified the file for feature branch
