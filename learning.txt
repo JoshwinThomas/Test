@@ -1,5 +1,1 @@
-Added a new line .
-
-added a new line in feature
-
-merge conflict solved
+completely modified the file for master branch
