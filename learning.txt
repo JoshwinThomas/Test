@@ -1,3 +1,5 @@
 completely modified the file for master branch
-
 added a new line from local master
+added a new line from github master 
+both lines are accepted 
+
